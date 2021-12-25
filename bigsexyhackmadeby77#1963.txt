@@ -1,5 +1,3 @@
-# big-hack-omg
-a roblox gui i made
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
